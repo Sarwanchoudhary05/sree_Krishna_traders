@@ -94,7 +94,7 @@ Go to [github.com](https://github.com) and sign up.
 
 ### Step 5 — Live! 🎉
 ```
-https://YOUR-USERNAME.github.io/hardware-catalog/
+https://SARWAN.github.io/sree_krishna_traders/
 ```
 
 ---
