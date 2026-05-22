@@ -1,4 +1,4 @@
-# IndoTech Supply — Product Catalog v2
+# Sree krishna Traders — Product Catalog v2
 ## With Admin Panel, Photo Uploads & V-Belt Size Charts
 
 ---
